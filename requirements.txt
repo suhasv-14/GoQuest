@@ -1,0 +1,4 @@
+Flask==2.3.2
+Flask-CORS==3.1.0
+google-generativeai==0.1.0
+python-dotenv==1.0.0
